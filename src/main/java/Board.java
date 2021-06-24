@@ -79,6 +79,18 @@ public class Board implements Cloneable{
 
     }
 
+
+
+
+    public void calculateValueOfBoard(){
+
+    }
+
+
+
+
+
+
     public BufferedImage getBoard() {
         return ImageOfPieces.imagesInstance.getBoard();
     }
